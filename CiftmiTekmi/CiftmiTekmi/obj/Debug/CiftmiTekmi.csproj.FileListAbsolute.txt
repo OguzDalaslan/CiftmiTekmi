@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\CiftmiTekmi\CiftmiTekmi\bin\Debug\CiftmiTekmi.exe.config
+C:\Users\User\Desktop\C#\CiftmiTekmi\CiftmiTekmi\bin\Debug\CiftmiTekmi.exe
+C:\Users\User\Desktop\C#\CiftmiTekmi\CiftmiTekmi\bin\Debug\CiftmiTekmi.pdb
+C:\Users\User\Desktop\C#\CiftmiTekmi\CiftmiTekmi\obj\Debug\CiftmiTekmi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\CiftmiTekmi\CiftmiTekmi\obj\Debug\CiftmiTekmi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\CiftmiTekmi\CiftmiTekmi\obj\Debug\CiftmiTekmi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\CiftmiTekmi\CiftmiTekmi\obj\Debug\CiftmiTekmi.exe
+C:\Users\User\Desktop\C#\CiftmiTekmi\CiftmiTekmi\obj\Debug\CiftmiTekmi.pdb
